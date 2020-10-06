@@ -1,7 +1,7 @@
 # Doom emacs Configs
 
 All code is not production ready, nor should I be judged on it. Use it at
-own will do play around.
+own will to play around.
 
 ## Organization of the repo
 
